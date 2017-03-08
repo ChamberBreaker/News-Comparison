@@ -1,4 +1,4 @@
-# React Production Starter
+# ChamberBreaker
 ChamberBreaker was borne out of a desire to knock down the existing social and mainstream media echo chambers.
 
 On a daily basis, our Twitter, FaceBook, Instagram, and our preferred news outlets generally serve to reinforce our existing worldview.
